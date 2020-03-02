@@ -50,7 +50,7 @@ Next step is to login to **dockerhub with dockerhub credentials**, as you can se
 ```
 $ docker login
 Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
-Username: owlabz
+Username: ow
 Password: 
 
 Error saving credentials: error storing credentials - err: exit status 1, out: `Cannot autolaunch D-Bus without X11 $DISPLAY`
@@ -65,7 +65,7 @@ Login to **dockerhub** is now successful
 ```
 $ docker login
 Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
-Username: owlabz
+Username: ow
 Password: 
 WARNING! Your password will be stored unencrypted in /home/ubuntu/.docker/config.json.
 Configure a credential helper to remove this warning. See
